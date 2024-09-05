@@ -1,0 +1,30 @@
+thead{
+    background-color: chocolate;
+}
+tbody{
+    background-color: lightsalmon;
+    text-align: center;
+}
+tfoot{
+    background-color: indianred;
+}
+table{
+    border: 2px solid black;
+    width: 50%;
+   /* border-collapse: collapse;*/
+    border-style: dotted;
+}
+td,th{
+    border: 2px solid brown;
+    border-radius: 10px;
+    font-size: 2rem;
+    border-style: dashed;
+}
+h1{
+    background-color: darkgoldenrod;
+    color: black;
+    position: relative;
+    left: 270px;
+    display: inline-block;
+    border: 10px double black;
+}
